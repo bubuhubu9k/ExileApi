@@ -22,9 +22,6 @@
 [submodule "Plugins/BasicFlaskRoutine"]
 	path = Plugins/BasicFlaskRoutine
 	url = https://github.com/Queuete/BasicFlaskRoutine
-[submodule "Plugins/UnIdy"]
-	path = Plugins/UnIdy
-	url = https://github.com/Queuete/UnIdy
 [submodule "Plugins/AutoQuit"]
 	path = Plugins/AutoQuit
 	url = https://github.com/Queuete/AutoQuit
